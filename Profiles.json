@@ -1,0 +1,14 @@
+{
+    "Profiles" : {
+        "Mr. Orange" : {
+            "Nick" : "Mr. Orange",
+            "Roles" : "Mr. Orange, Admin, Bot Manager, Flame",
+            "Bal" : "0",
+            "Bank" : "0"
+        },
+        "Mr. Red" : {
+            "Nick" : "Mr. Red",
+            "Roles" : "Mr. Red, Admin, Flame"
+        }
+    }
+}
